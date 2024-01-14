@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wisata MYSQL</string>
+    <string name="bayar">Lakukan Pembayaran Sesuai \n dengan Jumlah yang tertera diatas</string>
+
+
+    <string-array name="Membuat_Spinner">
+        <item>Daftar No Rekening Dan E-Wallet</item>
+        <item>BRI - 2112123123</item>
+        <item>Mandiri - 122112312</item>
+        <item>Dana - 082121323</item>
+        <item>Shopepay - 08233212</item>
+    </string-array>
+
+</resources>
